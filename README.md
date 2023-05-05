@@ -15,7 +15,7 @@ Must have the following prerequisites:
 
 ## Contribution
 Chetan Harshit Singh(2028017)  
-Soogato Roy(2028030)  
+Soogato Roy(2028034)  
 Ayushi Subhadarshini(2028053)  
 Prabhudatta Barik(2028170).
 
