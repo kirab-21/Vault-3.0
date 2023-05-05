@@ -1,6 +1,6 @@
 # Vault 3.0
 
-Vault 3.0 is a D-App built using React for the frontend and Solidity for the smart contract. This App uses Pinata API to store the data. 
+Vault 3.0 is a D-App built using React for the frontend and Solidity for the smart contract. This App uses Pinata API to store the data and Metamask for the transaction. 
 
 
 ![1](https://user-images.githubusercontent.com/86204980/236326428-48f914cc-975a-4aa9-b663-04b65cdf5527.jpg)
