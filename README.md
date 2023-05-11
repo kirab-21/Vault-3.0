@@ -19,5 +19,4 @@ Soogato Roy(2028034)
 Ayushi Subhadarshini(2028053)  
 Prabhudatta Barik(2028170).
 
-Pull requests are welcome. For major changes, please open an issue.
 
